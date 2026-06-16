@@ -91,5 +91,6 @@ data-warehouse-project/
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+-----
 🌟 About Me
 Hi there! I'm Sundara ragavan G P and I’m an IT professional with huge interest in Data Engineering and tried out this project with help of the famous data based youtube channel Data with Baraa and his SQL course.
